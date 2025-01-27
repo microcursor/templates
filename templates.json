@@ -7,7 +7,7 @@
       "details": "A template for building native iOS applications using SwiftUI.",
       "iconUrl": "https://raw.githubusercontent.com/microcursor/templates/main/.icons/swiftui.png",
       "version": "1.0.0",
-      "repository": "https://github.com/microcursor/templates/swiftui",
+      "repositoryUrl": "https://github.com/microcursor/templates/swiftui",
       "supportedTargets": [
         {
           "name": "iPhone Simulator",
@@ -28,7 +28,7 @@
       "details": "A template for building cross-platform mobile applications using Flutter.",
       "iconUrl": "https://raw.githubusercontent.com/microcursor/templates/main/.icons/flutter.png",
       "version": "1.0.0",
-      "repository": "https://github.com/microcursor/templates/flutter",
+      "repositoryUrl": "https://github.com/microcursor/templates/flutter",
       "supportedTargets": [
         {
           "name": "Android Emulator",
