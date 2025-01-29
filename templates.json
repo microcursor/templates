@@ -8,18 +8,7 @@
       "iconUrl": "https://raw.githubusercontent.com/microcursor/templates/main/.icons/swiftui.png",
       "version": "1.0.0",
       "repositoryUrl": "https://github.com/microcursor/templates/swiftui",
-      "supportedTargets": [
-        {
-          "name": "iPhone Simulator",
-          "platform": "ios",
-          "deviceType": "simulator"
-        },
-        {
-          "name": "iPhone Physical",
-          "platform": "ios",
-          "deviceType": "physical"
-        }
-      ]
+      "supportedPlatforms": ["ios"]
     },
     {
       "id": "template-QJyc33FzERj39gBNp6ZAqD",
@@ -29,28 +18,7 @@
       "iconUrl": "https://raw.githubusercontent.com/microcursor/templates/main/.icons/flutter.png",
       "version": "1.0.0",
       "repositoryUrl": "https://github.com/microcursor/templates/flutter",
-      "supportedTargets": [
-        {
-          "name": "Android Emulator",
-          "platform": "android",
-          "deviceType": "simulator"
-        },
-        {
-          "name": "iOS Simulator",
-          "platform": "ios",
-          "deviceType": "simulator"
-        },
-        {
-          "name": "Android Device",
-          "platform": "android",
-          "deviceType": "physical"
-        },
-        {
-          "name": "iOS Device",
-          "platform": "ios",
-          "deviceType": "physical"
-        }
-      ]
+      "supportedPlatforms": ["ios", "android"]
     }
   ]
 }
